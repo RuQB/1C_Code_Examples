@@ -4,6 +4,6 @@
 Given here 1C code exampeles, processors, queries, SKD schemes, technical tasks, instructions  are for INFORMATIONAL PURPOSES of respected potential employers or customers.
 It is PROHIBITED to use the code without my permission.
 
-Приведена малая часть разработок, многие из них не могут быть размещены в публичном доступе, из=за условий контракта на их разработку.
+Приведена малая часть разработок, многие из них не могут быть размещены в публичном доступе, из-за условий контракта на их разработку.
 
 
